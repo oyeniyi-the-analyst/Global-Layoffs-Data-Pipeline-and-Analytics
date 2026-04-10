@@ -35,8 +35,6 @@ The **Layoffs Data Analytics Project** transforms raw global layoffs data from t
 
 ## Installation & Setup
 
-mysql -u <username> -p < sql/01_create_db.sql
-
 Run Full Pipeline Automatically
 automation/run_pipeline.bat
 
